@@ -1,4 +1,4 @@
-{ "name": "Vincent",
+{ "name": "bezko/vincent",
   "description" : "meme generator",
   "require": {
     "php": "~7.3.0"
