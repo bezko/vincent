@@ -1,5 +1,6 @@
 { "name": "bezko/vincent",
   "description" : "meme generator",
+  "license": "MIT",
   "require": {
     "php": "~7.3.0"
   }
