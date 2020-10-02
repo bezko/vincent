@@ -2,6 +2,6 @@
   "description" : "meme generator",
   "license": "MIT",
   "require": {
-    "php": "~7.3.0"
+    "php": "^7.1"
   }
 }
